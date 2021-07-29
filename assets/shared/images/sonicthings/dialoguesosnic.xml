@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialoguesosnic.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialogue sonic0000" x="0" y="0" width="23" height="208" frameX="-14" frameY="-214" frameWidth="1269" frameHeight="422"/>
+	<SubTexture name="dialogue sonic0001" x="23" y="0" width="322" height="414" frameX="-1" frameY="-8" frameWidth="1269" frameHeight="422"/>
+	<SubTexture name="dialogue sonic0002" x="345" y="0" width="1031" height="422" frameX="-1" frameY="0" frameWidth="1269" frameHeight="422"/>
+	<SubTexture name="dialogue sonic0003" x="0" y="422" width="1269" height="422"/>
+	<SubTexture name="dialogue sonic0004" x="0" y="844" width="1266" height="422" frameX="-3" frameY="0" frameWidth="1269" frameHeight="422"/>
+	<SubTexture name="dialogue sonic0005" x="0" y="1266" width="1264" height="422" frameX="-5" frameY="0" frameWidth="1269" frameHeight="422"/>
+	<SubTexture name="dialogue sonic0006" x="0" y="1266" width="1264" height="422" frameX="-5" frameY="0" frameWidth="1269" frameHeight="422"/>
+	<SubTexture name="dialogue sonic0007" x="0" y="1688" width="1261" height="422" frameX="-8" frameY="0" frameWidth="1269" frameHeight="422"/>
+</TextureAtlas>

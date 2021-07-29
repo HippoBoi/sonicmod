@@ -1,0 +1,2 @@
+:dad:health.gain = 0
+:bf:geez.

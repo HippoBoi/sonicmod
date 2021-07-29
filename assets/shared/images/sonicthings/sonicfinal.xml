@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonicfinal.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic down0000" x="0" y="0" width="639" height="677"/>
+	<SubTexture name="sonic down0001" x="0" y="0" width="639" height="677"/>
+	<SubTexture name="sonic down0002" x="639" y="0" width="639" height="677"/>
+	<SubTexture name="sonic down0003" x="639" y="0" width="639" height="677"/>
+	<SubTexture name="sonic down0004" x="1278" y="0" width="639" height="677"/>
+	<SubTexture name="sonic idle0000" x="0" y="677" width="639" height="677"/>
+	<SubTexture name="sonic idle0001" x="639" y="677" width="639" height="677"/>
+	<SubTexture name="sonic idle0002" x="1278" y="677" width="639" height="677"/>
+	<SubTexture name="sonic idle0003" x="0" y="1354" width="639" height="677"/>
+	<SubTexture name="sonic idle0004" x="639" y="1354" width="639" height="677"/>
+	<SubTexture name="sonic idle0005" x="639" y="1354" width="639" height="677"/>
+	<SubTexture name="sonic idle0006" x="639" y="1354" width="639" height="677"/>
+	<SubTexture name="sonic idle0007" x="639" y="1354" width="639" height="677"/>
+	<SubTexture name="sonic idle0008" x="639" y="1354" width="639" height="677"/>
+	<SubTexture name="sonic idle0009" x="639" y="1354" width="639" height="677"/>
+	<SubTexture name="sonic idle0010" x="639" y="1354" width="639" height="677"/>
+	<SubTexture name="sonic idle0011" x="639" y="1354" width="639" height="677"/>
+	<SubTexture name="sonic idle0012" x="639" y="1354" width="639" height="677"/>
+	<SubTexture name="sonic idle0013" x="1278" y="1354" width="639" height="677"/>
+	<SubTexture name="sonic left0000" x="0" y="2031" width="639" height="677"/>
+	<SubTexture name="sonic left0001" x="0" y="2031" width="639" height="677"/>
+	<SubTexture name="sonic left0002" x="639" y="2031" width="639" height="677"/>
+	<SubTexture name="sonic left0003" x="639" y="2031" width="639" height="677"/>
+	<SubTexture name="sonic left0004" x="1278" y="2031" width="639" height="677"/>
+	<SubTexture name="sonic right0000" x="0" y="2708" width="639" height="677"/>
+	<SubTexture name="sonic right0001" x="0" y="2708" width="639" height="677"/>
+	<SubTexture name="sonic right0002" x="639" y="2708" width="639" height="677"/>
+	<SubTexture name="sonic right0003" x="639" y="2708" width="639" height="677"/>
+	<SubTexture name="sonic right0004" x="1278" y="2708" width="639" height="677"/>
+	<SubTexture name="sonic up0000" x="0" y="3385" width="639" height="677"/>
+	<SubTexture name="sonic up0001" x="0" y="3385" width="639" height="677"/>
+	<SubTexture name="sonic up0002" x="639" y="3385" width="639" height="677"/>
+	<SubTexture name="sonic up0003" x="639" y="3385" width="639" height="677"/>
+	<SubTexture name="sonic up0004" x="1278" y="3385" width="639" height="677"/>
+</TextureAtlas>

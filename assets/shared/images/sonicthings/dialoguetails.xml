@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialoguetails.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialogue tails0000" x="0" y="0" width="23" height="208" frameX="-15" frameY="-204" frameWidth="1270" frameHeight="412"/>
+	<SubTexture name="dialogue tails0001" x="23" y="0" width="324" height="412" frameX="0" frameY="0" frameWidth="1270" frameHeight="412"/>
+	<SubTexture name="dialogue tails0002" x="347" y="0" width="1017" height="208" frameX="-16" frameY="-204" frameWidth="1270" frameHeight="412"/>
+	<SubTexture name="dialogue tails0003" x="0" y="412" width="1260" height="402" frameX="-10" frameY="-10" frameWidth="1270" frameHeight="412"/>
+	<SubTexture name="dialogue tails0004" x="0" y="814" width="1260" height="409" frameX="-10" frameY="-3" frameWidth="1270" frameHeight="412"/>
+	<SubTexture name="dialogue tails0005" x="0" y="1223" width="1260" height="409" frameX="-10" frameY="-3" frameWidth="1270" frameHeight="412"/>
+	<SubTexture name="dialogue tails0006" x="0" y="1223" width="1260" height="409" frameX="-10" frameY="-3" frameWidth="1270" frameHeight="412"/>
+	<SubTexture name="dialogue tails0007" x="0" y="1223" width="1260" height="409" frameX="-10" frameY="-3" frameWidth="1270" frameHeight="412"/>
+</TextureAtlas>

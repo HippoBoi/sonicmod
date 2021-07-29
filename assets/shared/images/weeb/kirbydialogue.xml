@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kirbydialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kirby dialogue0000" x="0" y="0" width="2552" height="759"/>
+	<SubTexture name="kirby dialogue0001" x="0" y="759" width="2099" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0002" x="2099" y="759" width="1720" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0003" x="0" y="1518" width="1417" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0004" x="1417" y="1518" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0005" x="2731" y="1518" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0006" x="0" y="2277" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0007" x="1314" y="2277" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0008" x="2628" y="2277" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0009" x="0" y="3036" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0010" x="1314" y="3036" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0011" x="1314" y="3036" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0012" x="2628" y="3036" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0013" x="2628" y="3036" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0014" x="0" y="3795" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0015" x="1314" y="3795" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0016" x="1314" y="3795" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0017" x="2628" y="3795" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0018" x="2628" y="3795" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0019" x="0" y="4554" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0020" x="0" y="4554" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0021" x="0" y="4554" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0022" x="0" y="4554" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0023" x="0" y="4554" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+	<SubTexture name="kirby dialogue0024" x="0" y="4554" width="1314" height="759" frameX="0" frameY="0" frameWidth="2552" frameHeight="759"/>
+</TextureAtlas>

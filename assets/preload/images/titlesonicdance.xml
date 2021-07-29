@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titlesonicdance.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonicdancetitle0000" x="0" y="0" width="1284" height="729"/>
+	<SubTexture name="sonicdancetitle0001" x="0" y="0" width="1284" height="729"/>
+	<SubTexture name="sonicdancetitle0002" x="0" y="729" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+	<SubTexture name="sonicdancetitle0003" x="0" y="1447" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+	<SubTexture name="sonicdancetitle0004" x="0" y="2165" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+	<SubTexture name="sonicdancetitle0005" x="0" y="2165" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+	<SubTexture name="sonicdancetitle0006" x="0" y="2165" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+	<SubTexture name="sonicdancetitle0007" x="0" y="2165" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+	<SubTexture name="sonicdancetitle0008" x="0" y="2165" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+	<SubTexture name="sonicdancetitle0009" x="0" y="2165" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+	<SubTexture name="sonicdancetitle0010" x="0" y="2165" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+	<SubTexture name="sonicdancetitle0011" x="0" y="2165" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+	<SubTexture name="sonicdancetitle0012" x="0" y="2165" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+	<SubTexture name="sonicdancetitle0013" x="0" y="2165" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+	<SubTexture name="sonicdancetitle0014" x="0" y="2165" width="1284" height="718" frameX="0" frameY="0" frameWidth="1284" frameHeight="729"/>
+</TextureAtlas>
